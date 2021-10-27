@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily push changes from a GitLab CI Pipeline via HTTPS](https://bkirova.medium.com/easily-push-changes-from-a-gitlab-ci-pipeline-via-https-7f3fdcc0beb4?source=rss-4983267b9871------2)
 - [Why You should quit a product company?](https://devghoststories.com/why-you-should-quit-your-product-company-66a05417da4b?source=rss-4983267b9871------2)
 - [How to trigger a Gitlab pipeline on merge](https://devghoststories.com/how-to-trigger-a-gitlab-pipeline-on-merge-e856aea11621?source=rss-4983267b9871------2)
 - [Must-Do Code Review Checklist](https://devghoststories.com/must-do-code-review-checklist-a6d5b670ce6d?source=rss-4983267b9871------2)
-- [My 6 powerful debugging techniques that everyone should know](https://devghoststories.com/my-6-powerful-debugging-techniques-that-everyone-should-know-1e3a2108f528?source=rss-4983267b9871------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
