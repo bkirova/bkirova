@@ -7,7 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Easily push changes from a GitLab CI Pipeline via HTTPS](https://bkirova.medium.com/easily-push-changes-from-a-gitlab-ci-pipeline-via-https-7f3fdcc0beb4?source=rss-4983267b9871------2)
+- [Easily push changes from a GitLab CI Pipeline via HTTPS](https://devghoststories.com/easily-push-changes-from-a-gitlab-ci-pipeline-via-https-7f3fdcc0beb4?source=rss-4983267b9871------2)
 - [Why You should quit a product company?](https://devghoststories.com/why-you-should-quit-your-product-company-66a05417da4b?source=rss-4983267b9871------2)
 - [How to trigger a Gitlab pipeline on merge](https://devghoststories.com/how-to-trigger-a-gitlab-pipeline-on-merge-e856aea11621?source=rss-4983267b9871------2)
 - [Must-Do Code Review Checklist](https://devghoststories.com/must-do-code-review-checklist-a6d5b670ce6d?source=rss-4983267b9871------2)
