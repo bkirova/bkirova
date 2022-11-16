@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [https://bkirova.medium.com/](https://bkirova.medium.com/)
+- 📝 I write articles on [https://bkirova.medium.com/](https://bkirova.medium.com/)
+
+- My [Personal page](https://borislavakirova.framer.website)  made with [Framer](https://framer.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
