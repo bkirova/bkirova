@@ -1,6 +1,6 @@
 <h1 align="left">I'm Ava</h1>
 
-FE architect in **[@DreamShot](https://www.dreamshot.bg/)** 
+FE architect in **[@DreamShot](https://careers.dreamshot.bg/)** 
 
 I am building **[Lamanote](https://www.lamanote.com/)** 🌱 
 
