@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Borislava Kirova</h1>
-<h3 align="center">Passionate developer. Software architect. Automation enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm Ava</h1>
+<h3 align="center">FE architect @dreamshotrocks</h3>
 
 - 🌱 I’m currently building **[Lamanote](https://www.lamanote.com/)** 
 
