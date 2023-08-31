@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ava</h1>
-<h3 align="center">FE architect @dreamshotrocks</h3>
+<h3 align="center">FE architect
+<a href="https://dreamshot.bg" target="blank">@DreamShot</a></h3>
 
 - 🌱 I’m currently building **[Lamanote](https://www.lamanote.com/)** 
 
